@@ -29,3 +29,8 @@ Reloading ideas for Camille to give to Kyle for Christmas
 |Hornady headspace kit|35|[Amazon.com](https://smile.amazon.com/Hornady-HK55-Lock-N-Load-Headspace-Without/dp/B005KW6W6O/ref=pd_di_sccai_11?_encoding=UTF8&pd_rd_i=B005KW6W6O&pd_rd_r=6fdaea6a-757e-479a-9314-4b34c9e787f5&pd_rd_w=wwSPo&pd_rd_wg=uCztf&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=Y7K7AP3HD0W2RJFEPA36&psc=1&refRID=Y7K7AP3HD0W2RJFEPA36)|
 |Hornady headspace kit|43|[MidwayUSA](https://www.midwayusa.com/product/1012743827?pid=479704)|
 
+## Components
+|name|price|url|
+|----|-----|---|
+|22 bullet for 223|15-55|[MidwayUSA](https://www.midwayusa.com/product/1165353472)|
+|30 bullet for 308|33|[MidwayUSA](https://www.midwayusa.com/product/1165395943?pid=605487)|

@@ -34,3 +34,9 @@ Reloading ideas for Camille to give to Kyle for Christmas
 |----|-----|---|
 |22 bullet for 223|15-55|[MidwayUSA](https://www.midwayusa.com/product/1165353472)|
 |30 bullet for 308|33|[MidwayUSA](https://www.midwayusa.com/product/1165395943?pid=605487)|
+
+
+## Gun related stuff
+|name|price|url|
+|----|-----|---|
+|Foregrip|24|[MidwayUSA](https://www.midwayusa.com/product/2319118741)|

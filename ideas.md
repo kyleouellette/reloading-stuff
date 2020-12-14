@@ -6,6 +6,7 @@ Reloading ideas for Camille to give to Kyle for Christmas
 |name|price|url|
 |----|-----|---|
 |Charge master|260|[MidwayUSA](https://www.midwayusa.com/product/1018264281?pid=642266)|
+| Auto Prime|56|[RCBS](https://www.rcbs.com/presses/single-stage/rock-chucker-supreme-auto-prime/16-9358.html)|
 
 ## Case Prep
 |name|price|url|
